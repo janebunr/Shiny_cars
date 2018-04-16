@@ -10,6 +10,8 @@ Audi AG
 BMW
 Mercedes-Benz
 
+[![Supercar](Shiny_cars/Images/5cars.png)](http://quanteda.io)
+
 The major focus are factors that play a major role influencing customers’ attention and brand attractiveness including current brand perception, and product attributes from car features to individual driving experiences.
 
 ## Approach
