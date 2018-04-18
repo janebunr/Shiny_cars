@@ -1,8 +1,5 @@
 # Shiny_cars
 
-## Approach
+This repository contains all the R files and codes from my blog post [Using Twitter to learn what people think about major automobile companies](https://janebunr.wordpress.com/2018/03/22/did-tesla-put-other-companies-in-automobile-industry-in-trouble/) collecting and analyzing customers’ brand attitudes among five major automobile companies (Tesla, Porsche AG, Audi AG, BMW, Mercedes-Benz) and [Exploring car tweets and interacting with the data](https://janebunr.wordpress.com/2018/04/03/exploring-car-tweets-and-interacting-with-the-data/) tweets data visualization using Shiny App by R. 
 
-To approach, I'll crawl data from Twitter using Twitter API in the total of 150,000 tweets (30,000 tweets each car brand), analyze using text analysis and topic model to visualize insightful information using R Programming. The book that I use to refer to is Text Mining with R: A Tidy Approach by Julia Silge and David Robinson.
-https://janebunr.wordpress.com/2018/03/22/did-tesla-put-other-companies-in-automobile-industry-in-trouble/
-
-https://janebunr.shinyapps.io/shinnycars/
+**Follow this link to interact with the data yourself on Shiny App: https://janebunr.shinyapps.io/shinnycars/**
